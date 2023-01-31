@@ -5,7 +5,7 @@
 
 # CPSC 5041 Computer Systems Principles I
 - [32 bit vs 64 bit](https://www.youtube.com/watch?v=Wu2A4fpFzgs)
-- [Logic NAND Function](https://www.electronics-tutorials.ws/boolean/bool_4.html) <sup>// Switch reprsentation</sup>
+- [Logic NAND Function](https://www.electronics-tutorials.ws/boolean/bool_4.html) <sup>// Switch representation</sup>
 - [Motherboards Explained](https://www.youtube.com/watch?v=b2pd3Y6aBag)
 - [RAM Explained - Random Access Memory](https://www.youtube.com/watch?v=PVad0c2cljo)
 
